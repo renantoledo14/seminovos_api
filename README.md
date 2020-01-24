@@ -17,7 +17,7 @@ Os endpoints propostos devem:
 1. Após baixar o código deste repositório, extraia os arquivos e mova-os para onde desejar
 2. Abra o terminal de comandos, aponte para a pasta escolhida e rode o comando [composer install]
 3. Rode o comando [php artisan serve] para que o servidor de desenvolvimento do Laravel seja iniciado
-4. Utilize um ambiente de desenvolvimento de APIs (como o Postman) para efetuar requisições para o endereço [localhost:8000/api/]
+4. Utilize um ambiente de desenvolvimento de APIs (como o Postman) para efetuar requisições para o endereço [localhost:8000/api/] Exemplo: "http://127.0.0.1:8000/api/Buscar/carro/fiat/palio/ano-2019-2019/km-2000-20000"
 
 ## Rotas
 
